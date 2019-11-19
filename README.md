@@ -9,4 +9,11 @@
 ## Example
 
 <code> ./DNF < text.txt </code>
+  
+<code> ./DNF 
+(or (and a1 (not a1) a3) (and a2 (not a2)))
+</code> 
+  
+## Remove
+<code> make clean </code>
 
