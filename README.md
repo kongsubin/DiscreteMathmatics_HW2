@@ -8,10 +8,15 @@
 
 ## Example
 
-<code> ./DNF < text.txt </code>
+~~~
+./DNF < text.txt 
+~~~
   
-~~~./DNF
-  (or (and a1 (not a1) a3) (and a2 (not a2)))
+or
+
+~~~
+./DNF
+(or (and a1 (not a1) a3) (and a2 (not a2)))
 ~~~ 
   
 ## Remove
